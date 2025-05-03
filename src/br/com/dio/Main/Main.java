@@ -1,4 +1,4 @@
-package br.com.dio;
+package br.com.dio.Main;
 
 import br.com.dio.model.Board;
 import br.com.dio.model.Space;
